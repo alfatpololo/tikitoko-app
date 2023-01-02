@@ -65,7 +65,7 @@ This is an example of how to list things you need to use the software and how to
 
 - Clone the repository
 ```
-git clone https://github.com/brndnwjy/tikitoko-app
+git clone https://github.com/alfatpololo/tikitoko-app
 ```
 - Go to repository folder
 ```
